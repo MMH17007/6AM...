@@ -6,7 +6,8 @@
  "cats": [
   "Sueños",
   "Venazos",
-  "Escritos [Tecleados mas bien]"
+  "Escritos",
+  "Poesía"
  ],
  "about": [
   "Mic drop",
@@ -16,7 +17,7 @@
   {
    "id": "labor-del-poeta",
    "title": "~Labor del poeta~",
-   "cat": "Escritos [Tecleados mas bien]",
+   "cat": "Escritos",
    "date": "2026-10-10",
    "excerpt": "¿A que se dedican los poetas?",
    "body": [
@@ -27,7 +28,7 @@
   {
    "id": "antardecer",
    "title": "Antardecer",
-   "cat": "Escritos [Tecleados mas bien]",
+   "cat": "Escritos",
    "date": "2026-10-10",
    "excerpt": "Cuando se quema el sol",
    "body": [
