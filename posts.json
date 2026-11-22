@@ -15,6 +15,16 @@
  ],
  "posts": [
   {
+   "id": "la-playa",
+   "title": "La playa",
+   "cat": "Sueños",
+   "date": "2026-11-21",
+   "excerpt": "La arena que te cubre",
+   "body": [
+    "Esta noche ha sido corta, pasábamos el día en la playa. Lucias un increíble conjunto de los años 40, tu pelo recogido en trenzas, sobre tu nariz unas gafas de sol de ojos de gato a juego con tu bikini azul. Puntos tapados por un pareo que tenías atado a la cintura.  Esa clase de de looks que ya no se llevan. Nos reíamos mientras jugábamos a las cartas, nos molestábamos continuamente y jugando al voley playa rodabas por la arena llenándote de arena. Nos metíamos al agua para que te la pudieras quitar y con un abrazo flotábamos como nutrias."
+   ]
+  },
+  {
    "id": "labor-del-poeta",
    "title": "~Labor del poeta~",
    "cat": "Escritos",
@@ -40,13 +50,13 @@
    ]
   },
   {
-   "id": "la-playa",
-   "title": "La playa",
-   "cat": "Sueños",
-   "date": "2026-11-21",
-   "excerpt": "La arena que te cubre",
+   "id": "agarrarse-a-algo",
+   "title": "Agarrarse a algo",
+   "cat": "Escritos",
+   "date": "2026-11-18",
+   "excerpt": "Agarrarme a ti",
    "body": [
-    "Esta noche ha sido corta, pasábamos el día en la playa. Lucias un increíble conjunto de los años 40, tu pelo recogido en trenzas, sobre tu nariz unas gafas de sol de ojos de gato a juego con tu bikini azul. Puntos tapados por un pareo que tenías atado a la cintura.  Esa clase de de looks que ya no se llevan. Nos reíamos mientras jugábamos a las cartas, nos molestábamos continuamente y jugando al voley playa rodabas por la arena llenándote de arena. Nos metíamos al agua para que te la pudieras quitar y con un abrazo flotábamos como nutrias."
+    "Todo evoluciona, todo por eso buscamos algo que perdure. Unos buscan que su nombre perdure anclándose a los libros de historia, otros buscan el éxito personal o profesional. Y los más sentimentales, esos que emiten una sobrecarga de información solo con verles pero encriptada, sin saber que quieren expresar. Esa clase de persona busca recuerdos a los que aferrarse. Me considero en este grupo, y aunque haya sido capaz de crear este tipo de recuerdos a lo largo de mi corta vida gracias al deporte o al arte, carezco del que en mi opinión es el más importante, los recuerdos del amor.\nEl amor de alguien a quien admiras, no hablo de algo familiar, yo admiro a mi padre y a mi hermana, mi madre es el pilar que sostiene mi integridad física y mental. Pero no es eso de lo que hablo del amor eterno... del juntos para siempre y del si quiero, del costumbrismo pintado de la pradera de San Isidro o La gallina ciega, del verte cinco minutos, el de los detalles, el de las flores, el de los planes románticos que honran el amor quebrado por la única fuerza antinatural conocida en nuestro planeta. Ese amor que cuando te ve llorar, llora y cuando te ve reír, ríe. Un amor que todos buscan y nadie quiere porque cupido a muerto a manos de la infidelidad y el descuido.\nPárate a pensar como es o como sería ese recuerdo de amor, quizá haya música y luces de neón, puede que un sofá con una película navideña en la tele y pijamas a juego, cualquier opción es valida mientras este esa persona ¿verdad?. Te diré como es el mio, en la playa baila ella tras cantar en un pequeño chirringito con bombillas redondas, las flores que adornan su pelo logran que su trenza no se deshaga y cuando ha llegado a mi se agacha y se abraza a sus rodillas con un equilibrio de funambulista. Me dice que me quiere, que es más feliz que nunca, el ultimo rayo de sol que acontece en ese sueño de verano es testigo del un beso. Un recuerdo de cuento, sacado de una película de adolescentes, pero señoras y señores vivos en un mundo diferente al de esos largometrajes.\nEscribiendo esto he llegado a la conclusión de que el amor verdadero es el cotidiano, el ya nombrado costumbrista que deja conversaciones profundas y filosóficas, el del día a día y en el que se protege al otro y te enorgulleces de sus logros, por fuentes cercanas diré que esto es irrefutable pero no creo que nada lo sea excepto cuando el corazón deja de latir, por eso cuando al ver a alguien notes que se acelera, no dejes pasar el tren que hoy en día por desgracia hay muchas averías que los retrasan."
    ]
   }
  ]
